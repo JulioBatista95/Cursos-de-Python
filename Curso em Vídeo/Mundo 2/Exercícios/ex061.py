@@ -5,7 +5,7 @@ a1 = int(input('Primeiro termo: '))
 r = int(input('Razão: '))
 termo = a1
 cont = 1
- #O cont irá limitar a quantidade de valores que irá aparecer na tela
+#O cont irá limitar a quantidade de valores que irá aparecer na tela
 
 while cont <= 10:
     print('{} -> '.format(termo), end='')
