@@ -18,3 +18,4 @@ while mais != 0:
     mais = int(input('Quantos termos você quer mostrar mais? '))
 print('Fim')
 print('Programa finalizado com {} termos mostrados'.format(total))
+total
